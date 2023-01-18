@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<compte sens="Crédit">
+    <code>1</code>
+    <solde>7000.0</solde>
+    <dateCreation>2023-01-18T11:52:53.306+01:00</dateCreation>
+    <active>true</active>
+    <client>
+        <codeClient>10</codeClient>
+        <nomClient>Fahd</nomClient>
+    </client>
+</compte>
